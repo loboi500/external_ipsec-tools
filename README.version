@@ -1,3 +1,3 @@
-URL: ftp://ftp.netbsd.org/pub/NetBSD/misc/ipsec-tools/0.7/ipsec-tools-0.7.3.tar.gz
-Version: 0.7.3
-BugComponent: 40729
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0cde34c52ff8bef897022f92bdb9829ba7305fcefbe99f88a894f5b3e4c7cf4
+size 118

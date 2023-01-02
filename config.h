@@ -1,30 +1,3 @@
-#define ENABLE_FRAG
-#define ENABLE_NATT
-#define ENABLE_NATT_00
-#define ENABLE_NATT_02
-#define ENABLE_NATT_RFC
-#define ENABLE_DPD
-#define ENABLE_HYBRID
-
-#define HAVE_OPENSSL_AES_H 1
-#undef HAVE_OPENSSL_ENGINE_H
-#define WITH_SHA2 1
-#define HAVE_SHA2_IN_SHA_H 1
-
-#undef INET6
-#undef INET6_ADVAPI
-
-#define PATH_IPSEC_H <netinet/ipsec.h>
-#define HAVE_POLICY_FWD 1
-#define HAVE_PFKEY_POLICY_PRIORITY 1
-
-#define TIME_WITH_SYS_TIME 1
-#define HAVE_SYS_TIME_H 1
-#define HAVE_UNISTD_H 1
-
-#define HAVE_STRLCAT 1
-#define HAVE_STRLCPY 1
-
-#define RETSIGTYPE void
-
-#define ANDROID_PATCHED
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e34491269ee1afe26e295095c7d0e111425bbb9ffb51453ac61aeb86f50fef0
+size 573

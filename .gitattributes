@@ -1,0 +1,17 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+main.c filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BSD filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+CleanSpec.mk filter=lfs diff=lfs merge=lfs -text
+config.h filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+README.version filter=lfs diff=lfs merge=lfs -text
+setup.c filter=lfs diff=lfs merge=lfs -text
+racoon.rc filter=lfs diff=lfs merge=lfs -text
+README filter=lfs diff=lfs merge=lfs -text
+README.google filter=lfs diff=lfs merge=lfs -text
+ChangeLog filter=lfs diff=lfs merge=lfs -text
+Makefile filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+NEWS filter=lfs diff=lfs merge=lfs -text
